@@ -1,2 +1,2 @@
-num = 1234
+num = input("enter the word")
 print(str(num)[::-1])
